@@ -10,6 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   font-family: "Chakra Petch", sans-serif;
+  box-sizing: border-box;
 }
 
 h1{
@@ -40,6 +41,7 @@ h1{
   background-position: 50% 25%;
   position: relative;
   margin: 50px 0 0 0;
+  box-sizing: border-box;
 }
 
 .css-hoola-hoop{
@@ -72,6 +74,7 @@ h1{
   align-items:self-start;
   justify-content: space-evenly;
   position: relative;
+  box-sizing: border-box;
 }
 
 .css-stop-interval,
